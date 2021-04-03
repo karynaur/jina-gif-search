@@ -1,0 +1,3 @@
+jina[hub,http]==1.0.7
+pytest==6.1.2
+
